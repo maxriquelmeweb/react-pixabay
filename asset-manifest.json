@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-pixabay/static/js/main.8e761aeb.chunk.js",
+    "main.js.map": "/react-pixabay/static/js/main.8e761aeb.chunk.js.map",
+    "runtime-main.js": "/react-pixabay/static/js/runtime-main.24573fcf.js",
+    "runtime-main.js.map": "/react-pixabay/static/js/runtime-main.24573fcf.js.map",
+    "static/js/2.4c4ed326.chunk.js": "/react-pixabay/static/js/2.4c4ed326.chunk.js",
+    "static/js/2.4c4ed326.chunk.js.map": "/react-pixabay/static/js/2.4c4ed326.chunk.js.map",
+    "static/js/3.51170914.chunk.js": "/react-pixabay/static/js/3.51170914.chunk.js",
+    "static/js/3.51170914.chunk.js.map": "/react-pixabay/static/js/3.51170914.chunk.js.map",
+    "index.html": "/react-pixabay/index.html",
+    "static/js/2.4c4ed326.chunk.js.LICENSE.txt": "/react-pixabay/static/js/2.4c4ed326.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24573fcf.js",
+    "static/js/2.4c4ed326.chunk.js",
+    "static/js/main.8e761aeb.chunk.js"
+  ]
+}
